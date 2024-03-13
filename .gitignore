@@ -1,0 +1,15 @@
+# binaries
+/bin/
+/dist/
+*.exe
+*.test
+*.out
+/distcache
+# env / secrets
+.env
+*.pem
+*.key
+# editors
+.idea/
+.vscode/
+*.swp
